@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://apoorv123:apoorv123@cluster0.zomn2.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://apoorv123:apoorv123@cluster0.zomn2.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
