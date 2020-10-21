@@ -47,7 +47,7 @@ const Login = ({ login, isAuthenticated }) => {
         </Fragment>
     );
 };
-Login.PropTypes = {
+Login.propTypes = {
     login: PropTypes.func.isRequired,
     isAuthenticated: PropTypes.bool
 };
