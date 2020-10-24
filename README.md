@@ -4,7 +4,7 @@
 3) Created an extensive backend API with Express and testing with postman , integrated React with Express using React Hooks and Async/Await practices and used JWT and OAuth for authentication
 4) Created the Interactive Web pages using React.js framework for register, login, profile, and dashboard pages
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 You will need to modify a default.json in the server config folder with
 
 ```
@@ -13,4 +13,4 @@ You will need to modify a default.json in the server config folder with
   "jwtSecret": 'YOUR_OWN_SECRET'
 }
 ```
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
